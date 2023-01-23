@@ -1,11 +1,11 @@
-﻿### Hi there 👋 Vipul here !
+Welcome to my personal profile! I'm Vipul, a beginner developer with a thirst for knowledge and a passion for creating 🤓.
 
-- 🔭 I’m currently working on web and mobile app development
-- 🌱 I’m currently learning ReactJS and NodeJS
-- 👯 I’m looking to collaborate on interesting projects
-- 💬 Ask me about website and app development
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vipulkumar-rajput "Linkedin")
-- 😄 Pronouns: He/Him/His
+I may be new to the game, but I am a fast learner and always eager to take on new challenges 💪. I have experience in Web Application Devlopement, and I am constantly expanding my skill set 📚.
+
+I am currently doing an internship at Red Hat, where I am working on developing and maintaining software projectd. It's been an amazing experience so far, and I am learning a lot! 💻
+
+Check out my GitHub profile [Your GitHub profile link] to see my progress and to follow my journey as a developer 🚀. Don't hesitate to reach out to me at vipulpr88@gmail.com for any questions or just to say hi 😁.
+
 
 
 [![Vipul's Github Stats](https://github-readme-stats.vercel.app/api?username=vipul-rajput&count_private=true&theme=default&show_icons=true)](https://github.com/vipul-rajput)
