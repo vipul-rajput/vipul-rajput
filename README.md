@@ -4,7 +4,7 @@ I may be new to the game, but I am a fast learner and always eager to take on ne
 
 I am currently doing an internship at Red Hat, where I am working on developing and maintaining software projectd. It's been an amazing experience so far, and I am learning a lot! 💻
 
-Check out my GitHub profile [Your GitHub profile link] to see my progress and to follow my journey as a developer 🚀. Don't hesitate to reach out to me at vipulpr88@gmail.com for any questions or just to say hi 😁.
+Check out my GitHub profile to see my progress and to follow my journey as a developer 🚀. Don't hesitate to reach out to me at vipulpr88@gmail.com for any questions or just to say hi 😁.
 
 
 
